@@ -1,1 +1,3 @@
-# L-gica-de-Programaci-n
+# Logica-de-Programacion
+
+En mi proyecto
