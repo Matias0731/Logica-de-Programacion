@@ -1,3 +1,3 @@
 # Logica-de-Programacion
 
-En mi proyecto
+El programa que yo seleccioné para trabajar es el de piedra, papel o tijeras. La funcionalidad de mi código tiene como finalidad permitirle al usuario tener un momento de distracción ejecutando el juego. el cuál a la vez que vas ganando vas sumando puntos y una vez que llegas a los 50 puntos abras ganado oficialmente contra la ma´quina. Dentro del código se incluye variables como 'Jugador', 'Máquina' o 'Again'. Está última opción por ejemplo nos permite volver a jugar el juego una bvez que ya lo hayamos completado aunque no de ser así de la misma forma nos permite salir si así lo deseamos. Y para hacerlo más atrayente el público se añadió emojis en los mensajes esperando lograr llamar la atención de los que ocupan el programa.
